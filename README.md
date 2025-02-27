@@ -23,3 +23,4 @@ A simple Python port scanner that allows you to ping a target IP address and sca
 1. Clone the repository:
    ```bash
    git clone https://github.com/Mr-Catfish/port-scanner.git
+   python portscanner.py
